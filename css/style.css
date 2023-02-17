@@ -88,9 +88,9 @@ header {
 /**Links inside dropdown-content**/
 
 .dropdown-content a {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   color: black;
-  text-align: right;
+  text-align: center;
   text-decoration: none;
   float: right;
   padding: 1%
@@ -103,11 +103,12 @@ header {
   border: none;
   cursor: pointer;
   padding: 1% 0;
-  display: none;
   width: 10%;
   float: right;
   font: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
+  display: none
+;
 }
 
 
